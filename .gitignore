@@ -1,0 +1,9 @@
+# .gitignore
+
+ 
+data_details/
+*.csv
+
+notebooks/old notebooks for reference/
+.ipynb_checkpoints/
+
